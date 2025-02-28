@@ -1,0 +1,3 @@
+There are some rules of pyhton:
+a. we can only use _ underscore in the file name, we can't use any other signs.
+b. variable can't start from any number, like variable1 can't be 1variable.
